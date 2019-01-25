@@ -1,0 +1,37 @@
+/* add your CSS here */
+#top {
+	font-family: Arieal;
+	text-transform: capitalize;
+}
+#pic {
+	width:300px;
+	height:200px;
+}
+.fact {
+	width:300px;	
+	text-align:justify;
+	font-style:italic;
+}
+.description {
+	width: 300px;	
+	text-align: justify;
+}
+.list {
+	list-style: none;
+	text-align: justify;
+}
+#out{
+	border: 2px gray solid;
+	width: 310px;
+	padding: 10px;
+	border-radius: 10px;
+	box-shadow: 3px 3px 8px 2px gray;
+}
+#in{
+	border: 2px gray outset;
+	width: 310px;
+	margin-top: 5px;
+}
+.bold {
+	font-weight: bold;
+}
